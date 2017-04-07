@@ -2,7 +2,7 @@
 
 awscli docker file
 
-## docker pull
+## pull
 
 ```
 docker pull getto/aws
@@ -10,7 +10,7 @@ docker pull getto/aws
 
 * [Docker Hub](https://hub.docker.com/r/getto/aws/)
 
-## build image
+## build
 
 ```
 docker build -t getto/aws .
