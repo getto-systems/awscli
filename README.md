@@ -8,7 +8,7 @@ awscli docker file
 docker pull getto/aws
 ```
 
-* [getto/aws](https://hub.docker.com/r/getto/aws/)
+* [Docker Hub](https://hub.docker.com/r/getto/aws/)
 
 ## build image
 
