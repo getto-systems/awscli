@@ -5,13 +5,13 @@ awscli docker file
 ## pull
 
 ```
-docker pull getto/aws
+docker pull getto/awscli
 ```
 
-* [Docker Hub](https://hub.docker.com/r/getto/aws/)
+* [Docker Hub](https://hub.docker.com/r/getto/awscli/)
 
 ## build
 
 ```
-docker build -t getto/aws .
+docker build -t getto/awscli .
 ```
